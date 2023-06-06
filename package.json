@@ -1,0 +1,38 @@
+{
+  "name": "find-friend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@hookform/resolvers": "^3.1.0",
+    "@types/cookie": "^0.5.1",
+    "@types/node": "18.15.12",
+    "@types/react": "18.0.37",
+    "@types/react-dom": "18.0.11",
+    "axios": "^1.4.0",
+    "D": "^1.0.0",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "next": "13.3.0",
+    "nookies": "^2.5.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-icons": "^4.8.0",
+    "react-input-mask": "^2.0.4",
+    "react-select": "^5.7.2",
+    "react-toastify": "^9.1.2",
+    "styled-components": "^5.3.9",
+    "typescript": "5.0.4",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
+  }
+}
